@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:ThiagoCrepequer/alurafood-server.git
+[submodule "pagamentos"]
+	path = pagamentos
+	url = git@github.com:ThiagoCrepequer/alurafood-pagamentos.git
