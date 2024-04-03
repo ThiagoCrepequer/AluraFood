@@ -7,3 +7,6 @@
 [submodule "pedidos"]
 	path = pedidos
 	url = git@github.com:ThiagoCrepequer/alurafood-pedidos.git
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:ThiagoCrepequer/alurafood-gateway.git
